@@ -1,4 +1,4 @@
-# Vet Inventory App
+# NodeJS Authentication Basics
 [The Odin Project](https://www.theodinproject.com/) - [Exercise Authentication
 Basics](https://www.theodinproject.com/courses/nodejs/lessons/authentication-basics).
 
